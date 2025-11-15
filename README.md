@@ -1,5 +1,7 @@
 # Tightrope
 
+## Demo video: https://youtu.be/LvkTyf1HEsQ
+
 Ideas are the currency of the modern world. Without implementing those ideas, we may as well be doomed with respect to the plethora of problems facing us today.
 
 **Tightrope** helps you identify critical contributors without whom important aspects of your project will go unmaintained, as well as providing recommendations on how to increase the resilience of your codebase when team makeup changes.
